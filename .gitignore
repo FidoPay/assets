@@ -1,0 +1,8 @@
+
+# Markdown stays local; only the repository-root README.md may be tracked.
+*.[mM][dD]
+*.[mM][aA][rR][kK][dD][oO][wW][nN]
+*.[mM][dD][oO][wW][nN]
+*.[mM][kK][dD]
+*.[mM][dD][xX]
+!/README.md
